@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "92184f26b2bbbf40",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b07a4fc1ff3cf3",
+        "type": "tabs",
+        "dimension": 63.932291666666664,
+        "children": [
+          {
+            "id": "3b334e003b7699f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux-0.11/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "62fd0b02dacba814",
+        "type": "tabs",
+        "dimension": 36.06770833333333,
+        "children": [
+          {
+            "id": "b0845ac52ed2e75a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad3de95a6c39cc49",
+    "type": "split",
+    "children": [
+      {
+        "id": "a285435222d91d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6226f4727ae7a1cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cf500f870598806",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d5cb5fb119c3e64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57fc8c3e1e6e8c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccdb85d42f68119f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899487447a313359",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux-0.11/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8251d72673ba9af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux-0.11/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "879e221595931c9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8619a6b3adf0e15e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux-0.11/未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "3b334e003b7699f7",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Linux-0.11/未命名.md",
+    "Linux-0.11",
+    "images/Pasted image 20240728085755.png",
+    "images",
+    "Pasted image 20240728085354.png",
+    "欢迎.md"
+  ]
+}
