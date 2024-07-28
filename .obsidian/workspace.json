@@ -20,8 +20,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91864dcddff5a4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62fd0b02dacba814",
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux-0.11/未命名.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux-0.11/未命名.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux-0.11/未命名.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,10 +178,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3b334e003b7699f7",
+  "active": "91864dcddff5a4d3",
   "lastOpenFiles": [
-    "未命名.md",
     "Linux-0.11/未命名.md",
+    "README.md",
     "Linux-0.11",
     "images/Pasted image 20240728085755.png",
     "images",
