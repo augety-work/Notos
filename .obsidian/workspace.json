@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57fc8c3e1e6e8c3d",
@@ -148,7 +149,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b0845ac52ed2e75a",
+  "active": "6226f4727ae7a1cf",
   "lastOpenFiles": [
     "Linux-0.11 源码/images/Pasted image 20240728095035.png",
     "Linux-0.11 源码/images/Pasted image 20240728095024.png",
